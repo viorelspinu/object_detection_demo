@@ -3,3 +3,6 @@
 __pycache__
 .vscode/
 models/*
+.DS_Store
+data/.DS_Store
+data/images/.DS_Store

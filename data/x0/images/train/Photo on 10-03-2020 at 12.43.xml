@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<annotation>
+<folder>data</folder>
+<filename>Photo on 10-03-2020 at 12.43.jpg</filename>
+<path/>
+<source>
+<database>Unknown</database>
+</source>
+<size>
+<width>720</width>
+<height>480</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>x</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<occluded>0</occluded>
+<difficult>0</difficult>
+<bndbox>
+<xmin>298</xmin>
+<ymin>139</ymin>
+<xmax>405</xmax>
+<ymax>241</ymax>
+</bndbox>
+</object>
+</annotation>
